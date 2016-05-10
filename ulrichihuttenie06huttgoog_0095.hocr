@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie06huttgoog_0095.png"; bbox 0 0 3158 5424; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 490 363 1377 722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 493 363 1366 639">
+     <span class='ocr_line' id='line_1_1' title="bbox 552 363 1313 468; baseline 0 -20"><span class='ocrx_word' id='word_1_1' title='bbox 552 363 1313 468; x_wconf 60' lang='lat' dir='ltr'><em>mmmmm-mm</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 490 546 1377 722; baseline 0.015 -106.045"><span class='ocrx_word' id='word_1_2' title='bbox 490 555 744 638; x_wconf 61' lang='lat' dir='ltr'><em>Magnumque</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 748 565 856 620; x_wconf 94' lang='grc' dir='ltr'><em>ηοω</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 876 559 911 618; x_wconf 70' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 923 555 1056 646; x_wconf 62' lang='lat' dir='ltr'><em>mm</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1073 546 1377 722; x_wconf 39' lang='lat' dir='ltr'><em>&amp;mu</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 272 3208 558 3343">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 272 3208 558 3343">
+     <span class='ocr_line' id='line_1_3' title="bbox 272 3208 558 3343; baseline -0.073 -71"><span class='ocrx_word' id='word_1_7' title='bbox 272 3253 277 3264; x_wconf 85' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 292 3244 432 3343; x_wconf 39' lang='lat' dir='ltr'><em>„mm</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 424 3292 431 3310; x_wconf 48' lang='grc'>1</span> <span class='ocrx_word' id='word_1_10' title='bbox 466 3208 558 3292; x_wconf 35' lang='grc' dir='ltr'><em>νὴ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1584 5012">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1584 5012">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1584 5012; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1584 5012; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 5372 1584 5424">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 5372 1584 5424">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 5372 1584 5424; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 5372 46 5424; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1534 5372 1584 5424; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie06huttgoog_0488.png"; bbox 0 0 3240 5416; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 136 562 1267 772">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 140 562 1267 758">
+     <span class='ocr_line' id='line_1_1' title="bbox 140 562 1267 658; baseline -0.002 -17.886"><span class='ocrx_word' id='word_1_1' title='bbox 140 562 1047 658; x_wconf 53' lang='lat' dir='ltr'><strong>nummatum-:mmmm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1185 572 1267 612; x_wconf 60' lang='lat' dir='ltr'><strong>w·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 136 665 978 772; baseline -0.004 -28.943"><span class='ocrx_word' id='word_1_3' title='bbox 136 665 978 772; x_wconf 57' lang='lat' dir='ltr'><strong>mfflmwdnwoelidnfm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1624 4884">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1624 4884">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1624 4884; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1624 4884; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 5372 1624 5412">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 5372 1624 5412">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 5372 1624 5412; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 5372 84 5412; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1534 5372 1624 5412; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
